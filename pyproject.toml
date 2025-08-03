@@ -8,4 +8,5 @@ dependencies = [
     "pandas",
     "scikit-learn",
     "jupyter",
+    "catboost>=1.2.8",
 ]
